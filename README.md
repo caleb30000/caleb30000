@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)]
+![MasterHead](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Abraham Onyedikachi Ogudu</h1>
 <h3 align="center">A passionate Data Scientist and Front End Web Developer</h3>
 <img align="right" alt="data-science" width="400" src="https://i.pinimg.com/originals/85/32/67/8532679bfb68802b91556920aba13a77.gif">
