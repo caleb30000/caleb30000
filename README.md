@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about coding with Python
 
-- 📫 How to reach me +2348085180231, +2349036737755, abrahamogudu@gmail.com
+- 📫 How to reach me +2348085180231, +2349036737755, abrahamogudu@gmail.com, [Twitter - @oguduabraham](twitter.com/oguduabraham)
 
 - 😄 Pronouns: He/Him
 
