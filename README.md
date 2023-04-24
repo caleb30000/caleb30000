@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/oguduabraham" target="blank"><img src="https://img.shields.io/twitter/follow/oguduabraham?logo=twitter&style=for-the-badge" alt="oguduabraham" /></a> </p>
 
-- 🔭 I’m currently working on **Credit Card Fraud Detection System with Python Machine Learning libraries**
+- 🔭 I’m currently working on **Data Analytics Portfolio Projects**
 
-- 🌱 I’m currently learning **SQL and PHP**
+- 🌱 I’m currently learning **Tableau, MySQL and PHP**
 
-- 👯 I’m looking to collaborate on **any project using Python, SQL, HTML and CSS**
+- 👯 I’m looking to collaborate on **any project using Python, SQL, Tableau**
 
-- 🤝 I’m looking for help with **SQL and PHP**
+- 🤝 I’m looking for help with **PHP**
 
 - 👨‍💻 All of my projects are available at [github.com/caleb30000](github.com/caleb30000)
 
