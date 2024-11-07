@@ -1,6 +1,6 @@
 ![MasterHead](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
 <h1 align="center">Hi 👋, I'm Abraham Onyedikachi Ogudu</h1>
-<h3 align="center">A passionate Data Scientist and Front End Web Developer</h3>
+<h3 align="center">A passionate Data Analyst and Technology Consultant</h3>
 <!-- <img align="right" alt="data-science" width="400" src="https://i.pinimg.com/originals/85/32/67/8532679bfb68802b91556920aba13a77.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caleb30000&label=Profile%20views&color=0e75b6&style=flat" alt="caleb30000" /> </p>
@@ -9,21 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/oguduabraham" target="blank"><img src="https://img.shields.io/twitter/follow/oguduabraham?logo=twitter&style=for-the-badge" alt="oguduabraham" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analytics Portfolio Projects**
+- 🌱 I’m currently learning **Power BI, MySQL and Python**
 
-- 🌱 I’m currently learning **Tableau, MySQL and PHP**
+- 👯 I’m looking to collaborate on **any project using Python, SQL, Power BI**
 
-- 👯 I’m looking to collaborate on **any project using Python, SQL, Tableau**
-
-- 🤝 I’m looking for help with **PHP**
+- 🤝 I’m looking for help with **Project Management**
 
 - 👨‍💻 All of my projects are available at [github.com/caleb30000](github.com/caleb30000)
 
-- 💬 Ask me about **coding with Python, HTML, CSS**
-
 - 📫 How to reach me **abrahamogudu@gmail.com**
 
-- ⚡ Fun fact **I code best from the hours of 1am**
+- ⚡ Fun fact **I code best from the hours of 3 am**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
